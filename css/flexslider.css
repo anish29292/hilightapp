@@ -131,8 +131,8 @@ html[xmlns] .slides {display: block;}
 	transition: all 0.3s ease-in-out; 
 	-webkit-transition: all 0.3s ease-in-out;
 }
-.flexslider.portfolio_single_slider .flex-direction-nav li a.flex-prev:before {content: "\f104"; left:0;}
-.flexslider.portfolio_single_slider .flex-direction-nav li a.flex-next:before {content: "\f105"; right:0;}
+.flexslider.portfolio_single_slider .flex-direction-nav li a.flex-prev:before {content: "<"; left:0;}
+.flexslider.portfolio_single_slider .flex-direction-nav li a.flex-next:before {content: ">"; right:0;}
 .flexslider.portfolio_single_slider .flex-direction-nav li a:hover:before {color:#fff;}
 
 
