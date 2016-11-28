@@ -195,7 +195,7 @@ opacity: 0;
     @-webkit-keyframes fadeInUp {
         0% {
             opacity: 0;
-            -webkit-transform: translateY(20px);
+            -webkit-transform: translateY(100px);
         }
 
         100% {
@@ -207,7 +207,7 @@ opacity: 0;
     @-moz-keyframes fadeInUp {
         0% {
             opacity: 0;
-            -moz-transform: translateY(20px);
+            -moz-transform: translateY(100px);
         }
 
         100% {
@@ -219,7 +219,7 @@ opacity: 0;
     @-o-keyframes fadeInUp {
         0% {
             opacity: 0;
-            -o-transform: translateY(20px);
+            -o-transform: translateY(100px);
         }
 
         100% {
@@ -231,7 +231,7 @@ opacity: 0;
     @keyframes fadeInUp {
         0% {
             opacity: 0;
-            transform: translateY(20px);
+            transform: translateY(100px);
         }
 
         100% {

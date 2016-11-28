@@ -24,7 +24,7 @@ body {
 	font-weight:300;
 	font-size: 13px;
 	line-height: 20px;
-	color: #666;
+	color: #a59d9d;
 	background-color:#fff;
 }
 #page {overflow-x:hidden; position:relative; z-index:5;}
@@ -290,14 +290,19 @@ header {
 	font-weight:900;
 	line-height:20px;
 	font-size:13px;
-	color:#0495CC;
+	color:#000;
 	transition: all 0.3s ease-in-out; 
 	-webkit-transition: all 0.3s ease-in-out;
 }
 .navmenu li:hover a,
 .navmenu li.active a {
-	color: #FFD700;
-    text-shadow: 1px 1px 9px #333;
+	color: #1eb2e7;
+}
+
+.aboutus
+{
+	font-size: 30px;
+	line-height: 35px;
 }
 
 /* Sub menu */
@@ -416,7 +421,6 @@ header {
 /*-----------------------------------------------------------------------------------*/
 /*	ABOUT
 /*-----------------------------------------------------------------------------------*/
-#about {padding-top:70px;}
 
 /* __________ Services __________ */
 .services_block {padding:7px 0 0;}
@@ -704,7 +708,7 @@ header {
 	color:#fff;
 }
 .work_item .work_description span {
-	color:#666;
+	color:#1eb2e7;
 }
 
 .work_item a.zoom {
@@ -863,7 +867,7 @@ ul.project_info li span {color:#979797;}
 	color:#fff;
 }
 .crewman_item .crewman_descr span {
-	color:#666;
+	color:#1eb2e7;
 }
 
 .crewman_item .crewman_social {
